@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=kernel by 秋秋 @Coolapk && LibXZR @Github
+kernel.string=kernel by 阿邪 @Coolapk && LibXZR @Github
 do.devicecheck=0
 do.modules=0
 do.systemless=0
